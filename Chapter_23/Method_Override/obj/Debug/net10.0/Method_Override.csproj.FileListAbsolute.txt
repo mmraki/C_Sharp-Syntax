@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.sourcelink.json
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\bin\Debug\net10.0\Method_Override.exe
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\bin\Debug\net10.0\Method_Override.deps.json
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\bin\Debug\net10.0\Method_Override.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\bin\Debug\net10.0\Method_Override.dll
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\bin\Debug\net10.0\Method_Override.pdb
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.dll
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\refint\Method_Override.dll
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.pdb
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\Method_Override.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Method_Overriding\Method_Override\obj\Debug\net10.0\ref\Method_Override.dll
