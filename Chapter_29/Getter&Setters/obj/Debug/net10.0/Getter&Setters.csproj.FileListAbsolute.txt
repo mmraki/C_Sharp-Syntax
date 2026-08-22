@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\bin\Debug\net10.0\Getter&Setters.exe
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\bin\Debug\net10.0\Getter&Setters.deps.json
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\bin\Debug\net10.0\Getter&Setters.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\bin\Debug\net10.0\Getter&Setters.dll
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\bin\Debug\net10.0\Getter&Setters.pdb
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.sourcelink.json
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.dll
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\refint\Getter&Setters.dll
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.pdb
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\Getter&Setters.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Getter&Setters\Getter&Setters\obj\Debug\net10.0\ref\Getter&Setters.dll
