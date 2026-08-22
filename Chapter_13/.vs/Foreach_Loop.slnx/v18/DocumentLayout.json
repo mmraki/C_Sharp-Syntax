@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ram\\C-Sharp\\Foreach_Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB660AA7-4259-1282-19D5-8DAAD80C27E4}|Foreach\\Foreach.csproj|c:\\users\\ram\\c-sharp\\foreach_loop\\foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB660AA7-4259-1282-19D5-8DAAD80C27E4}|Foreach\\Foreach.csproj|solutionrelative:foreach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ram\\C-Sharp\\Foreach_Loop\\Foreach\\Program.cs",
+              "RelativeDocumentMoniker": "Foreach\\Program.cs",
+              "ToolTip": "C:\\Users\\Ram\\C-Sharp\\Foreach_Loop\\Foreach\\Program.cs",
+              "RelativeToolTip": "Foreach\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T02:26:11.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
