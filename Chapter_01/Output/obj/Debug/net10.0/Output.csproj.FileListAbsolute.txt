@@ -1,0 +1,15 @@
+C:\Users\Ram\C#_Basics\Basic_Output\Output\bin\Debug\net10.0\Output.exe
+C:\Users\Ram\C#_Basics\Basic_Output\Output\bin\Debug\net10.0\Output.deps.json
+C:\Users\Ram\C#_Basics\Basic_Output\Output\bin\Debug\net10.0\Output.runtimeconfig.json
+C:\Users\Ram\C#_Basics\Basic_Output\Output\bin\Debug\net10.0\Output.dll
+C:\Users\Ram\C#_Basics\Basic_Output\Output\bin\Debug\net10.0\Output.pdb
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.AssemblyInfoInputs.cache
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.AssemblyInfo.cs
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.sourcelink.json
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.dll
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\refint\Output.dll
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.pdb
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\Output.genruntimeconfig.cache
+C:\Users\Ram\C#_Basics\Basic_Output\Output\obj\Debug\net10.0\ref\Output.dll
