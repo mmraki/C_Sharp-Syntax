@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\Objects\Object\bin\Debug\net10.0\Object.exe
+C:\Users\Ram\C-Sharp\Objects\Object\bin\Debug\net10.0\Object.deps.json
+C:\Users\Ram\C-Sharp\Objects\Object\bin\Debug\net10.0\Object.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Objects\Object\bin\Debug\net10.0\Object.dll
+C:\Users\Ram\C-Sharp\Objects\Object\bin\Debug\net10.0\Object.pdb
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.sourcelink.json
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.dll
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\refint\Object.dll
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.pdb
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\Object.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Objects\Object\obj\Debug\net10.0\ref\Object.dll
