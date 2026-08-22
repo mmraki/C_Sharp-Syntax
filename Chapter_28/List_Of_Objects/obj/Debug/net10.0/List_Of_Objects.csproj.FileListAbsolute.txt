@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.sourcelink.json
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\bin\Debug\net10.0\List_Of_Objects.exe
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\bin\Debug\net10.0\List_Of_Objects.deps.json
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\bin\Debug\net10.0\List_Of_Objects.runtimeconfig.json
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\bin\Debug\net10.0\List_Of_Objects.dll
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\bin\Debug\net10.0\List_Of_Objects.pdb
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.dll
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\refint\List_Of_Objects.dll
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.pdb
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\List_Of_Objects.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\List_Of_Objects\List_Of_Objects\obj\Debug\net10.0\ref\List_Of_Objects.dll
