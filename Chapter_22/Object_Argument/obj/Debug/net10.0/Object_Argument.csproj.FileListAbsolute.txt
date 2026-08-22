@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.sourcelink.json
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\bin\Debug\net10.0\Object_Argument.exe
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\bin\Debug\net10.0\Object_Argument.deps.json
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\bin\Debug\net10.0\Object_Argument.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\bin\Debug\net10.0\Object_Argument.dll
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\bin\Debug\net10.0\Object_Argument.pdb
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.dll
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\refint\Object_Argument.dll
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.pdb
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\Object_Argument.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Object_As_Argument\Object_Argument\obj\Debug\net10.0\ref\Object_Argument.dll
