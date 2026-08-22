@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\bin\Debug\net10.0\Exception.exe
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\bin\Debug\net10.0\Exception.deps.json
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\bin\Debug\net10.0\Exception.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\bin\Debug\net10.0\Exception.dll
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\bin\Debug\net10.0\Exception.pdb
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.sourcelink.json
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.dll
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\refint\Exception.dll
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.pdb
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\Exception.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Exception_Handling\Exception\obj\Debug\net10.0\ref\Exception.dll
