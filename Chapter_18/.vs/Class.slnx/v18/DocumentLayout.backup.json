@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ram\\C-Sharp\\Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A815EA51-E8B5-B21D-27AA-38F40FF27D8E}|Class\\Class.csproj|c:\\users\\ram\\c-sharp\\class\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A815EA51-E8B5-B21D-27AA-38F40FF27D8E}|Class\\Class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A815EA51-E8B5-B21D-27AA-38F40FF27D8E}|Class\\Class.csproj|c:\\users\\ram\\c-sharp\\class\\class\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A815EA51-E8B5-B21D-27AA-38F40FF27D8E}|Class\\Class.csproj|solutionrelative:class\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\Ram\\C-Sharp\\Class\\Class\\Messages.cs",
+              "RelativeDocumentMoniker": "Class\\Messages.cs",
+              "ToolTip": "C:\\Users\\Ram\\C-Sharp\\Class\\Class\\Messages.cs",
+              "RelativeToolTip": "Class\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T05:39:32.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ram\\C-Sharp\\Class\\Class\\Program.cs",
+              "RelativeDocumentMoniker": "Class\\Program.cs",
+              "ToolTip": "C:\\Users\\Ram\\C-Sharp\\Class\\Class\\Program.cs",
+              "RelativeToolTip": "Class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T04:20:30.851Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

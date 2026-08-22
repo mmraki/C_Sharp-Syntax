@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.sourcelink.json
+C:\Users\Ram\C-Sharp\Class\Class\bin\Debug\net10.0\Class.exe
+C:\Users\Ram\C-Sharp\Class\Class\bin\Debug\net10.0\Class.deps.json
+C:\Users\Ram\C-Sharp\Class\Class\bin\Debug\net10.0\Class.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Class\Class\bin\Debug\net10.0\Class.dll
+C:\Users\Ram\C-Sharp\Class\Class\bin\Debug\net10.0\Class.pdb
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.dll
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\refint\Class.dll
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.pdb
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\Class.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Class\Class\obj\Debug\net10.0\ref\Class.dll
