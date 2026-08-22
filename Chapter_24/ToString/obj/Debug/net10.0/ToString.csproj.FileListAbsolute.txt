@@ -1,0 +1,15 @@
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.sourcelink.json
+C:\Users\Ram\C-Sharp\ToString\ToString\bin\Debug\net10.0\ToString.exe
+C:\Users\Ram\C-Sharp\ToString\ToString\bin\Debug\net10.0\ToString.deps.json
+C:\Users\Ram\C-Sharp\ToString\ToString\bin\Debug\net10.0\ToString.runtimeconfig.json
+C:\Users\Ram\C-Sharp\ToString\ToString\bin\Debug\net10.0\ToString.dll
+C:\Users\Ram\C-Sharp\ToString\ToString\bin\Debug\net10.0\ToString.pdb
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.dll
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\refint\ToString.dll
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.pdb
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ToString.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\ToString\ToString\obj\Debug\net10.0\ref\ToString.dll
