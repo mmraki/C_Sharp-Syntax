@@ -1,0 +1,30 @@
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.AssemblyInfoInputs.cache
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.AssemblyInfo.cs
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.csproj.CoreCompileInputs.cache
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.sourcelink.json
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.exe
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.deps.json
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.runtimeconfig.json
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.dll
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.pdb
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.dll
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\refint\Multidim_Array.dll
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.pdb
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.genruntimeconfig.cache
+C:\Users\Ram\C-Sharp\Multi_Dimentional_Array\Multidim_Array\obj\Debug\net10.0\ref\Multidim_Array.dll
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.exe
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.deps.json
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.runtimeconfig.json
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.dll
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\bin\Debug\net10.0\Multidim_Array.pdb
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.AssemblyInfoInputs.cache
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.AssemblyInfo.cs
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.csproj.CoreCompileInputs.cache
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.sourcelink.json
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.dll
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\refint\Multidim_Array.dll
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.pdb
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\Multidim_Array.genruntimeconfig.cache
+C:\Users\Ram\source\repos\C#_Basics\Chapter_17 - Multi-Dimentional Array\Multidim_Array\obj\Debug\net10.0\ref\Multidim_Array.dll
