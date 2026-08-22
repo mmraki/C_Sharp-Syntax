@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ram\\source\\repos\\C#_Basics\\Chapter_30 - Auto Implemented Properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93691322-010E-F4DC-CC95-FC6D89D94838}|Auto_Implemented_ Properties\\Auto_Implemented_ Properties.csproj|c:\\users\\ram\\source\\repos\\c#_basics\\chapter_30 - auto implemented properties\\auto_implemented_ properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93691322-010E-F4DC-CC95-FC6D89D94838}|Auto_Implemented_ Properties\\Auto_Implemented_ Properties.csproj|solutionrelative:auto_implemented_ properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ram\\source\\repos\\C#_Basics\\Chapter_30 - Auto Implemented Properties\\Auto_Implemented_ Properties\\Program.cs",
+              "RelativeDocumentMoniker": "Auto_Implemented_ Properties\\Program.cs",
+              "ToolTip": "C:\\Users\\Ram\\source\\repos\\C#_Basics\\Chapter_30 - Auto Implemented Properties\\Auto_Implemented_ Properties\\Program.cs",
+              "RelativeToolTip": "Auto_Implemented_ Properties\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T02:09:09.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
