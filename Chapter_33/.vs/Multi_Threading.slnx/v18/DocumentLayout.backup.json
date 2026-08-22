@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ram\\C-Sharp\\Multi_Threading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55182B38-B13C-4923-B875-5408D65842FD}|Multi_Threading\\Multi_Threading.csproj|c:\\users\\ram\\c-sharp\\multi_threading\\multi_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55182B38-B13C-4923-B875-5408D65842FD}|Multi_Threading\\Multi_Threading.csproj|solutionrelative:multi_threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ram\\C-Sharp\\Multi_Threading\\Multi_Threading\\Program.cs",
+              "RelativeDocumentMoniker": "Multi_Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\Ram\\C-Sharp\\Multi_Threading\\Multi_Threading\\Program.cs",
+              "RelativeToolTip": "Multi_Threading\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T02:53:01.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
